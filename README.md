@@ -1,4 +1,4 @@
-Day-4-Task
+Day-4-Task(Functions)
 
 Print odd numbers in an array,
 Convert all the strings to title caps in a string array,
